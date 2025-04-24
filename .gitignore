@@ -187,5 +187,3 @@ cython_debug/
 Wardrobe/
 feature_vectors/
 outputs/
-
-evaluation.ipynb
